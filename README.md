@@ -12,3 +12,30 @@ Corso base di Python con esempi pratici e notebook Jupyter per imparare le fonda
 7. Fai clic sulla cartella "python-base" per accedere ai file e ai notebook al suo interno
 
 Nota: Assicurati di avere Git installato sul tuo computer. Se non lo hai, puoi scaricarlo dal sito web ufficiale: https://git-scm.com/downloads.
+
+
+Scaletta: 
+
+Giorno 1:
+
+- 0. Jupyter.ipynb
+- 1. Introduzione e sintassi base.ipynb
+
+
+Giorno 2: 
+
+2. Tipologia di dato e manipolazione.ipynb
+3. Creare funzioni .ipynb
+4. Eccezioni ed errori.ipynb
+
+Giorno 3: 
+
+5. Programmazione a oggetti.ipynb
+6. Operazione File.ipynb
+7. NumPy e SciPy.ipynb
+
+Giorno 4:
+
+8. Matplotlib.ipynb
+9. Pandas.ipynb
+10. Use Case.ipynb
