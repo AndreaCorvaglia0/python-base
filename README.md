@@ -18,8 +18,8 @@ Scaletta:
 
 Giorno 1:
 
-- 0. Jupyter.ipynb
-- 1. Introduzione e sintassi base.ipynb
+0. Jupyter.ipynb
+1. Introduzione e sintassi base.ipynb
 
 
 Giorno 2: 
